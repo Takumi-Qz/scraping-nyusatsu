@@ -1,6 +1,6 @@
 # 公共工事 入札公告 自動収集ツール
 
-[![daily](https://github.com/Takumi-Qz/japan-public-bid-scraper/actions/workflows/daily.yml/badge.svg)](https://github.com/Takumi-Qz/japan-public-bid-scraper/actions/workflows/daily.yml)
+[![daily](https://github.com/Takumi-Qz/scraping-nyusatsu/actions/workflows/daily.yml/badge.svg)](https://github.com/Takumi-Qz/scraping-nyusatsu/actions/workflows/daily.yml)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB)
 
 国の機関が出す工事の入札公告を毎朝自動で集め、**「どの分野の工事か」で分類し、入札日が近い順に並べた一覧**にするツールです。
